@@ -27,7 +27,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/healthcare-assistant.git
+    git clone https://github.com/SURESHBEEKHANI/Gen-AI-With-Deep-Seek.git
     cd healthcare-assistant
     ```
 
